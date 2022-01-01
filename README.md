@@ -1,16 +1,16 @@
-# fx553vd_opencore
+# FX553VD OPENCORE
 Backup FX553VD OPENCORE BIGSUR
 
-### Feature Status
-Sleep : Not Working<br />
-Airdrop : Stuck Waiting<br />
-Boot-Chime : YES<br />
-Showpicker : Disable (Can turn on in MISC -> Boot -> Showpicker)<br />
-Boot GUI : YES (disable for now because Showpicker disable)<br />
-Headphone Jack : YES<br />
+## Feature Status
+- Sleep : Not Working<br />
+- Airdrop : Stuck Waiting<br />
+- Boot-Chime : YES<br />
+- Showpicker : Disable (Can turn on in MISC -> Boot -> Showpicker)<br />
+- Boot GUI : YES (disable for now because Showpicker disable)<br />
+- Headphone Jack : YES<br />
 
 
-### Hardware Status
+## Hardware Status
 
 Information about supported elements and these things that doesn't work on FX553VD.
 
@@ -34,4 +34,4 @@ Information about supported elements and these things that doesn't work on FX553
 
 ## Credits
 
-- [fikriardyant](https://github.com/fikriardyant), for building intial versions of OpenCore and maintaining them.
+- [fikriardyant](https://github.com/fikriardyant) for building intial versions of OpenCore and maintaining them.
