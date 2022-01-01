@@ -22,3 +22,7 @@ Information about supported elements and these things that doesn't work on FX553
 | USB           |                     USB 3.0 Bus                     |              YES |
 | HDMI          |                  INTEL HDMI HD 630                  |              YES |
 | Touchpad      |                        HID                          |              YES |
+
+## Credits
+
+- [fikriardyant](https://github.com/fikriardyant), for building intial versions of OpenCore and maintaining them.
